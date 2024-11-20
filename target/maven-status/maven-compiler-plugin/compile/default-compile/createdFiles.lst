@@ -1,0 +1,3 @@
+com\upiiz\security\SecurityApplication.class
+com\upiiz\security\controllers\ControllerFacturas.class
+com\upiiz\security\config\SecurityConfig.class
